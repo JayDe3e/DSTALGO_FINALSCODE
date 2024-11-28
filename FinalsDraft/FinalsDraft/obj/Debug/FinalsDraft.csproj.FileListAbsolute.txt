@@ -1,7 +1,0 @@
-C:\Users\kerne\source\repos\FinalsDraft\FinalsDraft\bin\Debug\FinalsDraft.exe.config
-C:\Users\kerne\source\repos\FinalsDraft\FinalsDraft\bin\Debug\FinalsDraft.exe
-C:\Users\kerne\source\repos\FinalsDraft\FinalsDraft\bin\Debug\FinalsDraft.pdb
-C:\Users\kerne\source\repos\FinalsDraft\FinalsDraft\obj\Debug\FinalsDraft.csproj.AssemblyReference.cache
-C:\Users\kerne\source\repos\FinalsDraft\FinalsDraft\obj\Debug\FinalsDraft.csproj.CoreCompileInputs.cache
-C:\Users\kerne\source\repos\FinalsDraft\FinalsDraft\obj\Debug\FinalsDraft.exe
-C:\Users\kerne\source\repos\FinalsDraft\FinalsDraft\obj\Debug\FinalsDraft.pdb
